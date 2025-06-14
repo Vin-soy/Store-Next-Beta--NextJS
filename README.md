@@ -2,7 +2,7 @@
 
 A beautifully designed, high-performance e-commerce platform built with Next.js, Prisma, Supabase, Clerk authentication, Stripe payments, and shadcn/ui. Store Next offers a seamless online shopping experience with fast checkout, secure payments, and a curated selection of products.
 
-**Online-Live:** https://store-next.vercel.app/
+**Online-Live:** [https://store-next.vercel.app/](https://store-next-beta.vercel.app/)
 
 ---
 
