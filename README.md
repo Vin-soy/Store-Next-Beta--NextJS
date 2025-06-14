@@ -1,8 +1,10 @@
 # Store Next – Modern E-commerce with Next.js
 
+<img width="1315" alt="Screenshot 2025-06-14 at 14 56 42" src="https://github.com/user-attachments/assets/4b133e1c-73ab-42c6-a31a-1370738e1f65" /><img width="1246" alt="Screenshot 2025-06-14 at 14 57 07" src="https://github.com/user-attachments/assets/d3f7ead5-1833-432d-bbc0-c26637668c38" /><img width="1254" alt="Screenshot 2025-06-14 at 14 58 00" src="https://github.com/user-attachments/assets/0c685a53-9237-4976-b459-7c85dde78501" /><img width="1241" alt="Screenshot 2025-06-14 at 14 59 55" src="https://github.com/user-attachments/assets/ddd94197-4947-43ff-936a-6610845d18f7" /><img width="1250" alt="Screenshot 2025-06-14 at 15 00 18" src="https://github.com/user-attachments/assets/e663e154-23b0-401b-8b8c-debe6071ae89" /><img width="1244" alt="Screenshot 2025-06-14 at 15 00 40" src="https://github.com/user-attachments/assets/cbea298a-9ae3-4648-a0ce-328878a24279" /><img width="1239" alt="Screenshot 2025-06-14 at 15 00 51" src="https://github.com/user-attachments/assets/4746c5d4-cd07-4216-8a0c-d921b7ec1f0f" /><img width="1247" alt="Screenshot 2025-06-14 at 15 01 26" src="https://github.com/user-attachments/assets/cdecde19-de05-43a2-a280-f174b8deffc6" />
+
 A beautifully designed, high-performance e-commerce platform built with Next.js, Prisma, Supabase, Clerk authentication, Stripe payments, and shadcn/ui. Store Next offers a seamless online shopping experience with fast checkout, secure payments, and a curated selection of products.
 
-**Online-Live:** [https://store-next.vercel.app/](https://store-next-beta.vercel.app/)
+**Online-Live:** https://store-next-beta.vercel.app/
 
 ---
 
